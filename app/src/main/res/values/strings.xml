@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calcv3</string>
+    <string name="btn_MC">MC</string>
+    <string name="btn_MR">MR</string>
+    <string name="btn_MS">MS</string>
+    <string name="btn_M_PLUS">M+</string>
+    <string name="btn_M_MINUS">M-</string>
+    <string name="btn_BACKSPACE">←</string>
+    <string name="btn_CE">CE</string>
+    <string name="btn_C">C</string>
+    <string name="btn_PLUS_MINUS">±</string>
+    <string name="btn_SQR_ROOT">√</string>
+    <string name="btn_SEVEN">7</string>
+    <string name="btn_EIGHT">8</string>
+    <string name="btn_NINE">9</string>
+    <string name="btn_DIVIDE">/</string>
+    <string name="btn_PERCENT">%</string>
+    <string name="btn_FOUR">4</string>
+    <string name="btn_FIVE">5</string>
+    <string name="btn_SIX">6</string>
+    <string name="btn_MULTIPLY">*</string>
+    <string name="btn_FRACTION">1/X</string>
+    <string name="btn_ONE">1</string>
+    <string name="btn_TWO">2</string>
+    <string name="btn_THREE">3</string>
+    <string name="btn_MINUS">-</string>
+    <string name="btn_EQUAL">=</string>
+    <string name="btn_ZERO">0</string>
+    <string name="btn_DOT">.</string>
+    <string name="btn_PLUS">+</string>
+</resources>
